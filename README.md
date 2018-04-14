@@ -7,16 +7,18 @@ Example Gameplay:
 ```
 CORRECT!!!
 
-? Guess a letter! d
+? Guess a letter! f
 
-_ _ e   S e v e _ _ _   S e a _
+_ _ _ _ _ _ _ _ s _
 
 
 INCORRECT!!!
 
-6 guesses remaining!!!
+9 guesses remaining!!!
 
-? Guess a letter! h
+? Guess a letter! c
 
-_ h e   S e v e _ _ h   S e a _
+_ _ _ _ _ _ _ _ s _
 ```
+
+Wordlist from [prdaily.com](https://www.prdaily.com/Main/Articles/20880.aspx)
