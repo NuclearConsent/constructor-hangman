@@ -1,5 +1,3 @@
-// IMDB TOP 250 Movies
-
 module.exports = [
   "Awkward",
   "Bagpipes",
