@@ -1,5 +1,7 @@
-var Game = require("./bin/game");
+var Hangman = require("./bin/game");
+
 // Create new game object
-var game = new Game();
+var hangman = new Hangman();
+
 // Start the game
-game.play();
+hangman.play();
